@@ -1,5 +1,5 @@
 # twitter-sentimental-analysis.1
-Project submission<br><b>
+Project submission<br> <b>
 
 Group Name: AI Nexus<br> <b>
 
@@ -8,7 +8,7 @@ Urusha Lama<br>
 Shrija Panday<br> 
 Kamana Oli<br>
 
-Project Description:<br><b>
+Project Description:<br> <b> <br>
 
 <p>The project "Sentiment Analysis of Twitter Data" aims to classify tweets as either positive or negative based on their content using Natural Language Processing (NLP) techniques and machine learning models. This project involves extracting, preprocessing, and analyzing Twitter data to predict the sentiment of tweets.
 
@@ -60,4 +60,4 @@ If the model predicts 0, it is classified as a Negative Tweet.
 
 If the model predicts 1, it is classified as a Positive Tweet.
 
-This project demonstrates how to apply machine learning and NLP techniques to sentiment analysis, providing a valuable tool for understanding public opinions on Twitter
+This project demonstrates how to apply machine learning and NLP techniques to sentiment analysis, providing a valuable tool for understanding public opinions on Twitter</p>
